@@ -32,5 +32,6 @@
             echo "<li>A sua raiz cúbica é <strong>".number_format($rc, 2, ",", ".")."</strong></li></ul>";
         ?>
     </section>
+    
 </body>
 </html>
