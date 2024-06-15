@@ -15,7 +15,7 @@
         <h1>Cálculo de Raiz Quadrada</h1>
         <h2>Informe um número</h2>
         <form action="<?=$_SERVER['PHP_SELF']?>" method="get">
-            <label for="num">Número</label>
+            <label for="num"><strong>Número</strong></label>
             <input type="number" name="num" id="num" value="<?=$numero?>">
             <input type="submit" value="Calcular raizes">
         </form>
